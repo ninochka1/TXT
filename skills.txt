@@ -1,0 +1,11 @@
+Git Bash
+GitHub
+JSON, XML
+Basics JS
+Postman
+Charles, Fiddler
+Dev Tools
+Android Studio
+XCode
+Basics SQL
+Jmeter
