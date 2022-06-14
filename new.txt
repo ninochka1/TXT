@@ -1,5 +1,5 @@
 Name - Nina
 Surname - Prudnikova
 Age - 36
-Pets - don't have
+Pets - 0
 Future desired salari - 2000$
